@@ -1,7 +1,7 @@
 #Function to calculate BMI
 def calculate_bmi(weight, height):
     bmi=weight / (height**2)
-    retun bmi
+    return bmi
 
 #List of individuals data
 people_data=[
